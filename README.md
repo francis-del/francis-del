@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adindu Francis Maduekwe
-- 👀 Passionate and enthusiatic Front end developer and Data Analyst with a degree in computer science
+- 👀 Passionate and enthusiatic software developer and Data Analyst with a degree in computer science
 - 🌱 Recent Graduated from Coventry University, UK
 - 💞️ I’m looking to collaborate on ... open-source projects and personal projects
 - 📫 How to reach me ... adinducon@gmail.com
