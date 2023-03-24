@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Adindu Francis Maduekwe
-- 💞️ I’m looking to collaborate on ... open-source projects and personal projects
+- 💞️ To obtain a Front-end Developer position where my skills and experience in web development can be utilized to create innovative and user-friendly interfaces.
+
+Education: Coventry University
 - 📫 How to reach me ... adinducon@gmail.com
  Develpoed real world application using languages like C#, React, Node, PHP, and Python
 <!---
