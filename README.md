@@ -1,12 +1,14 @@
-👋 Hello, Recruiters and Data Enthusiasts! Welcome to my GitHub profile!
+👋 Hello, Recruiters, Cyber Security and Data Enthusiasts! Welcome to my GitHub profile!
 
 About Me
-I am a passionate and detail-oriented individual with a strong desire to kickstart my career in the world of data analysis. My journey began with a deep curiosity about uncovering insights from data during my university projects, and it has since evolved into a commitment to leveraging data-driven approaches to solve real-world problems.
+Highly motivated and detail-oriented IT professional with a strong foundation in computer systems, cybersecurity, and end-user computing (EUC). Equipped with hands-on experience in technical support, software development, and cybersecurity applications. Skilled in Microsoft 365 administration, agile methodologies, and IT service management. Adept at delivering exceptional end-user experiences and proactive in detecting and mitigating security threats. Ready to bring a blend of technical expertise, customer service focus, and problem-solving ability to contribute to the success of ypur orhanisation IT operations and security infrastructure.
 
 🚀 Skills
 Data Analysis: Proficient in analyzing and interpreting complex datasets to derive meaningful insights.
 
-Programming Languages: Experienced in Python for data manipulation, analysis, and visualization.
+Programming Languages: Experienced in Python for data manipulation, analysis, and visualization. Experienced in Python, Java and C++ for cyber security.
+
+Cyber Security: Proficient in diverse security methodologies, including vulnerability assessment, penetration testing, and familiarity with security tools such as Bandit testing (Python), demonstrating adeptness in fortifying systems against vulnerabilities like SQL injection and Cross-site Scripting (XSS), alongside comprehensive understanding of fundamental OS concepts, memory management, and algorithms.
 
 Data Visualization: Skilled in creating compelling visualizations to effectively communicate findings using tools like Matplotlib, and Seaborn.
 
@@ -17,7 +19,7 @@ Statistical Analysis: Familiar with statistical concepts and hypothesis testing 
 Excel: Advanced skills in Excel for data cleaning, analysis, and reporting.
 
 🌱 Learning & Growth
-I am committed to continuous learning and staying up-to-date with the latest advancements in the field of data analysis. Currently, I am exploring working on a project involving real-time data analysis and Learning more of POWER BI.
+I am committed to continuous learning and staying up-to-date with the latest advancements in the field of data analysis. Currently, I am exploring working on a project involving real-time data analysis, Cyber security, and Learning more of POWER BI.
 
 📈 Projects
 Feel free to explore my repositories, where I've worked on projects showcasing my data analysis skills. From exploring public datasets to solving specific business problems, each project reflects my dedication to practical, hands-on experience.
