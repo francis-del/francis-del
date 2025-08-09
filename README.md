@@ -8,8 +8,6 @@ Data Analysis: Proficient in analyzing and interpreting complex datasets to deri
 
 Programming Languages: Experienced in Python for data manipulation, analysis, and visualization. Experienced in Python, Java and C++ for cyber security.
 
-Cyber Security: Proficient in diverse security methodologies, including vulnerability assessment, penetration testing, and familiarity with security tools such as Bandit testing (Python), demonstrating adeptness in fortifying systems against vulnerabilities like SQL injection and Cross-site Scripting (XSS), alongside comprehensive understanding of fundamental OS concepts, memory management, and algorithms.
-
 Data Visualization: Skilled in creating compelling visualizations to effectively communicate findings using tools like Matplotlib, and Seaborn.
 
 SQL: Proficient in querying databases to extract relevant information and perform data transformations.
